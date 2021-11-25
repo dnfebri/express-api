@@ -4,3 +4,8 @@ Set Up
 Library
     - dotenv require di app.js
     - Sequelize & Sequelize cli
+        - Membuat sekema migration documentation => https://sequelize.org/master/manual/model-basics.html#data-types
+        - membuat model
+
+    - fastest-validator
+        
