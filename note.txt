@@ -1,0 +1,5 @@
+Set Up
+    - Menggunakan express-generator
+
+Library
+    - dotenv
