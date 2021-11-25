@@ -7,5 +7,5 @@ Library
         - Membuat sekema migration documentation => https://sequelize.org/master/manual/model-basics.html#data-types
         - membuat model
 
-    - fastest-validator
+    - fastest-validator or express-validator
         

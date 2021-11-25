@@ -21,12 +21,12 @@ module.exports = (sequelize, DataTypes) => {
             type: DataTypes.DATE,
             allowNull: false
         },
-        updateAt: {
+        updatedAt: {
             type: DataTypes.DATE,
             allowNull: false
         }
     }, {
-        tableName: 'producks'
+        tableName: 'produck'
     });
 
     return Produck;
