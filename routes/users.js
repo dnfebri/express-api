@@ -3,7 +3,8 @@ var router = express.Router();
 
 /* GET users listing. */
 router.get('/', function(req, res, next) {
-  res.send('Hallo Word');
+  res.send(process.env.APP_name);
+  // console.log(process.env);
 });
 
 router.get('/me', (req, res, next) => {

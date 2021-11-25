@@ -2,4 +2,5 @@ Set Up
     - Menggunakan express-generator
 
 Library
-    - dotenv
+    - dotenv require di app.js
+    - Sequelize & Sequelize cli
